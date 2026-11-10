@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo Express - Visor de Lista de Precios",
+  "description": "Convierte la lista de precios Excel de tu proveedor en un catálogo rápido para ventas con búsqueda en vivo, copia a WhatsApp, cálculo de recargos y detección de cambios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
